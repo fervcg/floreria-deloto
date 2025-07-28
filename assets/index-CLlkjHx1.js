@@ -327,7 +327,7 @@ Error generating stack: `+a.message+`
     padding: 0.5rem 1rem;
     font-size: 0.85rem;
   }
-`;function Ds(l){return new Intl.NumberFormat("es-CL",{style:"currency",currency:"CLP",minimumFractionDigits:0}).format(l)}function S2(l,i){if(typeof l!="number"||typeof i!="number")return 0;const u=(l-i)/l*100;return Math.round(u/5)*5}function E2({name:l,price:i,originalPrice:u,images:o}){const s=typeof u=="number"&&typeof i=="number"&&i<u,d=s?S2(u,i):null,h=`Hola, quiero el producto: ${l}${s?` con ${d}% de descuento`:""}`,g=`https://wa.me/56912345678?text=${encodeURIComponent(h)}`;return C.jsxs(d2,{children:[s&&C.jsxs(m2,{children:["OFERTA -",d,"%"]}),o&&o.length>0?C.jsx(h2,{src:o[0],alt:l}):C.jsx("div",{style:{height:"200px",backgroundColor:"#FAF0E6",display:"flex",alignItems:"center",justifyContent:"center",fontStyle:"italic",color:"#888"},children:"Imagen no disponible"}),C.jsx(v2,{children:l}),s?C.jsxs(Sp,{children:[C.jsx(p2,{children:Ds(u)}),C.jsx(g2,{children:Ds(i)})]}):C.jsx(Sp,{children:C.jsx(y2,{children:Ds(i)})}),C.jsx(b2,{href:g,target:"_blank",rel:"noopener noreferrer",children:"Cotizar/Comprar"})]})}const x2=["Todos","Ramos de Flores","Ramos para Matrimonio","Floreros","Flores Secas","Cajas y Arreglos Florales","Condolencias","OFERTAS"],A2=J.div`
+`;function Ds(l){return new Intl.NumberFormat("es-CL",{style:"currency",currency:"CLP",minimumFractionDigits:0}).format(l)}function S2(l,i){if(typeof l!="number"||typeof i!="number")return 0;const u=(l-i)/l*100;return Math.round(u/5)*5}function E2({name:l,price:i,originalPrice:u,images:o}){const s=typeof u=="number"&&typeof i=="number"&&i<u,d=s?S2(u,i):null,h=`Hola, quiero el producto: ${l}${s?` con ${d}% de descuento`:""}`,g=`https://wa.me/56979373795?text=${encodeURIComponent(h)}`;return C.jsxs(d2,{children:[s&&C.jsxs(m2,{children:["OFERTA -",d,"%"]}),o&&o.length>0?C.jsx(h2,{src:o[0],alt:l}):C.jsx("div",{style:{height:"200px",backgroundColor:"#FAF0E6",display:"flex",alignItems:"center",justifyContent:"center",fontStyle:"italic",color:"#888"},children:"Imagen no disponible"}),C.jsx(v2,{children:l}),s?C.jsxs(Sp,{children:[C.jsx(p2,{children:Ds(u)}),C.jsx(g2,{children:Ds(i)})]}):C.jsx(Sp,{children:C.jsx(y2,{children:Ds(i)})}),C.jsx(b2,{href:g,target:"_blank",rel:"noopener noreferrer",children:"Cotizar/Comprar"})]})}const x2=["Todos","Ramos de Flores","Ramos para Matrimonio","Floreros","Flores Secas","Cajas y Arreglos Florales","Condolencias","OFERTAS"],A2=J.div`
   margin-bottom: 3rem;
 `,O2=J.div`
   display: flex;
@@ -669,7 +669,7 @@ Error generating stack: `+a.message+`
     left: 0;
     color: #c2185b;
   }
-`;function yE(){return C.jsxs(vE,{children:[C.jsx(pE,{children:"Despachos & Entregas"}),C.jsxs(gE,{children:[C.jsxs(wp,{children:[C.jsx(zp,{children:"Despacho a Domicilio"}),C.jsxs(Dp,{children:[C.jsx(Ti,{children:"Cubrimos todo Santiago (consultar disponibilidad)"}),C.jsx(Ti,{children:"Pide antes de las 15:00 PM y recibe hoy en tu puerta"})]})]}),C.jsxs(wp,{children:[C.jsx(zp,{children:"Retiro en Taller"}),C.jsxs(Dp,{children:[C.jsx(Ti,{children:"Retiro en Huerquehue 541, Providencia"}),C.jsx(Ti,{children:"Disponible tras elegir tu ramo o arreglo"}),C.jsx(Ti,{children:"Horario: Lunes–Sábado, 10:00 am–18:00 pm"})]})]})]})]})}const bE=J.section`
+`;function yE(){return C.jsxs(vE,{children:[C.jsx(pE,{children:"Despachos & Entregas"}),C.jsxs(gE,{children:[C.jsxs(wp,{children:[C.jsx(zp,{children:"Despacho a Domicilio"}),C.jsxs(Dp,{children:[C.jsx(Ti,{children:"Cubrimos todo Santiago (consultar disponibilidad)"}),C.jsx(Ti,{children:"Pide antes de las 15:00 PM y recibe hoy en tu puerta"})]})]}),C.jsxs(wp,{children:[C.jsx(zp,{children:"Retiro en Taller"}),C.jsxs(Dp,{children:[C.jsx(Ti,{children:"Retiro en Huerquehue 541, Maipú"}),C.jsx(Ti,{children:"Disponible tras elegir tu ramo o arreglo"}),C.jsx(Ti,{children:"Horario: Lunes–Sábado, 10:00 am–18:00 pm"})]})]})]})]})}const bE=J.section`
   background: #EEEDE8;
   padding: 10rem 4rem;
   text-align: center;
@@ -716,7 +716,7 @@ Error generating stack: `+a.message+`
     margin: 0;
     line-height: 1.6;
   }
-`;function xE(){return C.jsxs(bE,{children:[C.jsx(SE,{children:"Métodos de Pago"}),C.jsxs(EE,{children:[C.jsxs(Mp,{children:[C.jsx(jp,{children:C.jsx(IS,{})}),C.jsxs(Cp,{children:[C.jsx("h3",{children:"Efectivo"}),C.jsx("p",{children:"Al momento de la entrega"})]})]}),C.jsxs(Mp,{children:[C.jsx(jp,{children:C.jsx(FS,{})}),C.jsxs(Cp,{children:[C.jsx("h3",{children:"Transferencia Bancaria"}),C.jsxs("p",{children:["Banco: Prepago Tenpo",C.jsx("br",{}),"Cuenta Vista: 111110851664",C.jsx("br",{}),"Correo: floreria.deloto@gmail.com",C.jsx("br",{}),"Titular: Florería de Loto SpA"]})]})]})]})]})}const AE=J.section`
+`;function xE(){return C.jsxs(bE,{children:[C.jsx(SE,{children:"Métodos de Pago"}),C.jsxs(EE,{children:[C.jsxs(Mp,{children:[C.jsx(jp,{children:C.jsx(IS,{})}),C.jsxs(Cp,{children:[C.jsx("h3",{children:"Efectivo"}),C.jsx("p",{children:"Al momento de la entrega"})]})]}),C.jsxs(Mp,{children:[C.jsx(jp,{children:C.jsx(FS,{})}),C.jsxs(Cp,{children:[C.jsx("h3",{children:"Transferencia Bancaria"}),C.jsxs("p",{children:["Banco: Prepago Tenpo",C.jsx("br",{}),"Cuenta Vista: 111110851664",C.jsx("br",{}),"Correo: floreriadeloto@gmail.com",C.jsx("br",{}),"Titular: Florería de Loto SpA"]})]})]})]})]})}const AE=J.section`
   background-color: #7a857540;
   margin-top: 0rem;
   padding: 8rem 6rem;
@@ -744,7 +744,7 @@ Error generating stack: `+a.message+`
   max-width: 1000px;
   text-align: center;
   font-size: 1.1rem;
-  line-height: 2;
+  line-height: 1.6;
   color: #183D3D;
 
   @media (max-width: 768px) {
